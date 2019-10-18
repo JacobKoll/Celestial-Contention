@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd ~/Desktop/WorkSpace/Games/Celestial-Contention/.build
+cmake ../
+make
+./Celestial-Contention
